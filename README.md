@@ -11,3 +11,5 @@ For example, let’s say I place a standard piece of 8.5 x 11in piece of paper (
 My focal length F is then:
 
 F = (248px x 24in) / 11in = 543.45
+
+** The End **
